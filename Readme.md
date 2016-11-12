@@ -1,6 +1,12 @@
 #order-linkedlist
 linked list implementation in Javascript
 
+#How to develop
+```bash
+git clone https://github.com/order42/order-linkedlist.git
+cd dsorin-linkedlist
+npm install
+```
 #API
 ```javascript
 const Node = require('order-linkedlist');
