@@ -22,7 +22,7 @@ describe('order-linkedlist', function (){
     it('should throw if arguments count is not equal 1', function(){
         const node1 = new Node(123);
         const node2 = new Node(345);
-
+        const node3 = new Node(345);
         assert.throws(function(){
            node1.addNext(node2,'some string');
        }, 'Should have thrown');
