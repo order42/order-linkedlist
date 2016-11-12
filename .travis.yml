@@ -3,4 +3,4 @@ node_js:
 -"stable"
 -"5"
 -"4"
-
+-npm test
